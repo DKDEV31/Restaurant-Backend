@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-backend",
+  "version": "0.0.1",
+  "description": "La partie backend de notre application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "backpack"
+  },
+  "author": "Benjamin Faucheux",
+  "license": "MIT",
+  "dependencies": {
+    "backpack-core": "^0.8.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
